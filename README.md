@@ -1,4 +1,4 @@
-# Einkaufsliste
+# Einkaufsliste ->> NUR MIT KOTLIN
 Pseudo code for a Kotlin console shopping list app:
 
 English:
